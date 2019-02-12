@@ -2,7 +2,7 @@
 /**
 Plugin Name: HYP Forms Inregistrare Utilizator
 Plugin URI: https://github.com/hypericumimpex/hyp-forms-ura/
-Description: Allows WordPress users to be automatically created upon submitting a Gravity Form
+Description: Permite crearea utilizatorilor in formulare...
 Version: 4.0.3
 Author: Hypericum Impex
 Author URI: https://github.com/hypericumimpex/
